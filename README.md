@@ -16,7 +16,7 @@ https://www.kaggle.com/c/mercari-price-suggestion-challenge/data
 
 https://doi.org/10.1111/poms.12295
 https://www.aeaweb.org/articles?id=10.1257/aer.20190623
-https://core.ac.uk/download/pdf/6786678.pdf - pagina 11
+https://core.ac.uk/download/pdf/6786678.pdf
 https://dl.acm.org/doi/abs/10.1145/1250910.1250946
 https://pubsonline.informs.org/doi/epdf/10.1287/mnsc.2020.3680
 https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13525
